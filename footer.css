@@ -1,0 +1,195 @@
+.newsletter_section{
+    background-color: #2C74B3;
+   padding: 3rem;
+   /* padding: 3rem 14rem; */
+}
+
+.newsletter_text{
+    width: 100%;
+    float: left;
+    color: #ffffff;
+    font-size: 40px;
+}
+.tempor_text{
+    width: 100%;
+    float: left;
+    color: #ffffff;
+    font-size: 16px;
+    margin-left: 0px;
+    margin-top: 0px;
+}
+.mail_bt_main{
+    width: 100%;
+    float: left;
+    padding-top: 20px;
+}
+.mail_text {
+    width: 60%;
+    float: left;
+    color: #000;
+    font-size: 16px;
+    background-color: #ffffff;
+    padding: 10px 15px;
+    border: 0px;
+    height: auto;
+}
+.subscribe_bt{
+    width: 150px;
+    float: left;
+    color: #ffffff;
+    font-size: 16px;
+    background-color: #282828;
+    padding: 10px 15px;
+    text-align: center;
+}
+.subscribe_bt a{
+    color: #ffffff;
+}
+.footer_section{
+    width: 100%;
+    float: left;
+    /* background-color: #0A2647; */
+    height: auto;
+    padding: 45px 0px;
+}
+.footer_main{
+    width: 100%;
+    float: left;
+}
+.footer_left{
+    width: 25%;
+    float: left;
+}
+.contact_taital{
+    width: 100%;
+    float: left;
+    font-size: 36px;
+    color: #ffffff;
+    font-weight: 600;
+    border-bottom: 1px solid #ffffff;
+    text-align: center;
+}
+.location_text {
+    width: 100%;
+    float: left;
+    font-size: 18px;
+    color: #fdfdfd;
+    padding-top: 15px;
+    text-align: center;
+}
+.location_text a{
+    color: #fdfdfd;
+}
+.padding_left_15{
+    padding-left: 15px;
+}
+.mail_section {
+    width: 80%;
+    float: left;
+}
+.contact_section{
+    width: 100%;
+    float: left;
+    padding-top: 40px;
+}
+.map_main {
+    width: 100%;
+    float: left;
+    padding-top: 20px;
+}
+.email_text {
+    width: 100%;
+    float: left;
+    font-size: 18px;
+    color: #717471;
+    background-color: transparent !important;
+    border-bottom: 2px solid #6f6f6f !important;
+    border: 0px;
+    padding: 20px 15px 10px 15px;
+    text-transform: uppercase;
+    height: auto;
+}
+input.email_text::placeholder {
+    color: #717471;
+}
+.massage_text {
+    width: 100%;
+    float: left;
+    font-size: 18px;
+    color: #717471;
+    background-color: transparent !important;
+    border-bottom: 2px solid #6f6f6f !important;
+    border: 0px;
+    height: 90px;
+    text-transform: uppercase;
+    padding: 40px 15px 0px 15px;  
+}
+textarea#comment::placeholder {
+    color: #717471;
+}
+.send_bt {
+    width: 150px;
+    float: left;
+    margin-top: 40px;
+}
+.send_bt a {
+    width: 100%;
+    float: left;
+    font-size: 20px;
+    color: #393a40;
+    text-align: center;
+    background-color: #89cbeb;
+    padding: 10px 0px;
+    text-transform: uppercase;
+    border-radius: 40px;
+}
+
+.social_icon {
+    width: 100%;
+    float: left;
+    text-align: right;
+    padding-top: 30px;
+}
+.social_icon ul{
+    margin: 0px;
+    padding: 0px;
+    display: inline-block;
+}
+.social_icon li{
+    float: left;
+    padding-left: 5px;
+    padding-right: 5px;
+}
+.copyright_section{
+    width: 100%;
+    float: left;
+    background-color: #fefefe;
+    height: auto;
+    border-top: 2px solid #282828;
+}
+.copyright_text {
+    width: 100%;
+    float: left;
+    color: #020202;
+    text-align: center;
+    font-size: 16px;
+    margin-left: 0px;
+}
+.copyright_text a {
+    color: #020202;
+}
+.copyright_text a:hover {
+    color: #89cbeb;
+}
+
+.background_bg{
+    width: 100%;
+    float: left;
+    background: #89cbeb;
+    height: auto;
+    padding: 15px 0px;
+}
+.images_main_1{
+    width: 100%;
+    float: left;
+}
